@@ -4,7 +4,7 @@
 - 🔭 I’ve pursued a Bachelor's in Electronics Engineering. <br>
 - 🌱 Tech Enthusiast | Into Web Development | Curious about Data.   <br>
 - 👯 Crafting elegant code to solve complex problems. <br>
-- 🤔 Looking to push my boundaries and explore new frontiers in software development. Open to collaboration and knowledge exchange. <br>
+- 🤔 Looking to push my boundaries and explore new frontiers in software development. Open to Learn and knowledge exchange. <br>
 - 💬 Lets ChitChat about Stocks, National Issues, International Markets. <br>
 - 📫 How to reach me: https://www.linkedin.com/in/yashkumarkhandare/ <br>
 - ⚡ Fun fact: I use Chrome to surf Insta,,, Haha. <br>
