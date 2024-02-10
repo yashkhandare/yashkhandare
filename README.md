@@ -1,13 +1,13 @@
 
 ### Hi there👋, My name is Yash Khandare. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkhandare&label=Profile%20views&color=0e75b6&style=flat" alt="yashkhandare" /> </p>
-- 🔭 I’ve pursued a Bachelor's in Electronics Engineering. <br>
-- 🌱 Tech Enthusiast | Into Web Development | Curious about Data.   <br>
-- 👯 Crafting elegant code to solve complex problems. <br>
-- 🤔 Looking to push my boundaries and explore new frontiers in software development. Open to Learn and knowledge exchange. <br>
-- 💬 Lets ChitChat about Stocks, National Issues, International Markets. <br>
-- 📫 How to reach me: https://www.linkedin.com/in/yashkumarkhandare/ <br>
-- ⚡ Fun fact: I use Chrome to surf Insta,,, Haha. <br>
+- 🔭 I’ve pursued a Bachelor's in Electronics Engineering🎓. <br>
+- 🌱 Tech Enthusiast | Into Web Development💻 | Curious about Data. <br>
+- 👯 Crafting elegant👌 code to solve complex problems♾️. <br>
+- 🤔 Looking to push my boundaries and explore🔓 new frontiers in software development. Open to Learning and knowledge exchange. <br>
+- 💬 Lets ChitChat about Stocks📈, National Issues, 🗽International Markets 🇺🇳🌎. <br>
+- 📫 How to reach🏃🛵🚂 me: https://www.linkedin.com/in/yashkumarkhandare/ <br>
+- ⚡ Fun fact: I use Chrome to surf Insta,,, Haha😄. <br>
 
 <br>
 
@@ -18,7 +18,7 @@ I’m a Software Developer, interested in Architecting scalable and maintainable
 <table>
   <tr>
     <td valign="middle">
-      <span>Languages</span>
+      <span>🧬Languages</span>
     </td>
     <td valign="middle">
       <div float="left">
@@ -73,7 +73,7 @@ I’m a Software Developer, interested in Architecting scalable and maintainable
 </table>
 
 
-### Connect
+### 🤝🫵🏻Let's Connect🔗
 
 <a href="mailto:yashkumarkhandare@gmail.com">![Mail](https://img.shields.io/badge/Gmail-410093?style=for-the-badge&logo=yahoo&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/yashkumarkhandare/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
