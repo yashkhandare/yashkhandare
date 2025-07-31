@@ -74,7 +74,7 @@ I’m a Software Developer, interested in Architecting scalable and maintainable
 </table>
 
 
-### 🤝🫵🏻Let's Connect🔗
+### 🤝Let's Connect🔗
 
 <a href="mailto:yashkumarkhandare@gmail.com">![Mail](https://img.shields.io/badge/Gmail-410093?style=for-the-badge&logo=yahoo&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/yashkumarkhandare/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
