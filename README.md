@@ -64,9 +64,6 @@ I’m a Software Developer, interested in Architecting scalable and maintainable
     <td valign="middle">
       <div float="left">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Anaconda-%2342B029.svg?&style=flat-square&logo=anaconda&logoColor=white"/>
-        <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important"/>
-        <img src="https://img.shields.io/badge/visual_studio_code-%23575757.svg?style=flat-square&logo=visual-studio-code&color=blue&labelColor=blue"/>
       </div>
     </td>
   </tr>
