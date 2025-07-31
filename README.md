@@ -23,10 +23,8 @@ I’m a Software Developer, interested in Architecting scalable and maintainable
     <td valign="middle">
       <div float="left">
      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-%233333FF.svg?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%233333FF.svg?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-%2333AAEE.svg?style=flat-square&logo=postgresql&logoColor=white"/>
       </div>
     </td>
