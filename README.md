@@ -45,11 +45,14 @@ I’m a Software Developer, interested in Architecting scalable and maintainable
   
 <tr>
     <td valign="middle">
-      <span>Cloud and Other Tech</span>
+      <span>Data and Cloud</span>
     </td>
     <td valign="middle">
-      <div float="left">
-        <img src="https://img.shields.io/badge/AmazonWebServices-%2300A1E0.svg?&style=flat-square&logo=salesforce&logoColor=white"/>
+      <div float="left"><img src="https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-%230277BD.svg?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=flat-square&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white"/>
       </div>
     </td>
   </tr>
