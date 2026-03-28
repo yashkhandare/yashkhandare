@@ -5,19 +5,13 @@
 </p>
 
 - 🎓 Bachelor’s in Electronics Engineering (ECE @ SSGMCE ’23)  
-- 🌱 **Aspiring Data Engineer** | Actively upskilling in Data Engineering & Machine Learning  
-- 🔧 Working with **Python, SQL, Linux, Data Pipelines, Storage & Queries**  
+- 🌱 **Data Engineer** | Actively upskilling in Data Engineering & Artificial Intelligence  
+- 🔧 Working with **Python, SQL, Azure, Linux, Data Pipelines, Storage & Queries**  
 - 📊 Learning ETL/ELT, data modeling, ingestion pipelines, and scalable data systems  
 - 🤖 Exploring Machine Learning fundamentals (Supervised, Unsupervised & Advanced Algorithms)  
 - 👯 Passionate about building **reliable, scalable, data-driven systems**  
 - 📫 Reach me at: https://www.linkedin.com/in/yashkumarkhandare/  
 - ⚡ Fun fact: I debug faster after chai ☕😄  
-
-<br>
-
-I am transitioning from software development into **Data Engineering**, focusing on designing robust data pipelines, efficient storage systems, and analytics-ready data platforms. I enjoy working close to data, solving real-world problems, and continuously learning modern data and AI technologies.
-
-<br>
 
 <table>
 <tr>
