@@ -8,11 +8,8 @@
 - 🌱 **Data Engineer** | Actively upskilling in Data Engineering & Artificial Intelligence  
 - 🔧 Working with **Python, SQL, Azure, Linux, Data Pipelines, Storage & Queries**  
 - 📊 Learning ETL/ELT, data modeling, ingestion pipelines, and scalable data systems  
-- 🤖 Exploring Machine Learning fundamentals (Supervised, Unsupervised & Advanced Algorithms)  
 - 👯 Passionate about building **reliable, scalable, data-driven systems**  
 - 📫 Reach me at: https://www.linkedin.com/in/yashkumarkhandare/  
-- ⚡ Fun fact: I debug faster after chai ☕😄  
-
 <table>
 <tr>
   <td valign="middle"><span>🧬 Languages</span></td>
